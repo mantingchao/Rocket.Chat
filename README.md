@@ -70,6 +70,6 @@ We're hiring developers, support people, and product managers all the time. Plea
 Any other questions, reach out to us at [contact@rocket.chat](contact@rocket.chat). We’d happy to help!
 
 
-https://hubot.github.com/docs/scripting/
-https://github.com/shokai/hubot-mongodb-brain/blob/master/scripts/hubot-mongodb-brain.coffee
-https://github.com/github/hubot-scripts/blob/master/src/scripts/mongo-brain.coffee
+- https://hubot.github.com/docs/scripting/
+- https://github.com/shokai/hubot-mongodb-brain/blob/master/scripts/hubot-mongodb-brain.coffee
+- https://github.com/github/hubot-scripts/blob/master/src/scripts/mongo-brain.coffee
